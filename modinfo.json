@@ -8,7 +8,7 @@
     "date": "2020-10-29",
     "build": "115013",
     "signature": "Dreadnought",
-    "forum": " ",
+    "forum": "https://forums.planetaryannihilation.com/threads/unit-selection-remove-bar.73520/",
     "scenes": {
         "live_game": [
             "coui://ui/mods/ui_tweaks/hide_control_group_bar.css"
@@ -45,7 +45,7 @@
         "N30N",
 		"Dreadnought"
     ],
-    "icon": "",
+    "icon": "https://i.imgur.com/ftfk4wU.png",
     "priority": 100,
     "dependencies": [],
     "companions": [],
