@@ -5,7 +5,7 @@
     "description": "Removes the need to scroll the selections box (I yoinked this specific function from N30N's UI tweeks)",
     "author": "Dreadnought, N30N",
     "version": "1.01",
-    "date": "2020-11-11",
+    "date": "2020-05-04",
     "build": "115013",
     "signature": "Dreadnought",
     "forum": "https://forums.planetaryannihilation.com/threads/unit-selection-remove-bar.73520/",
@@ -38,6 +38,8 @@
 		"Bar",
         "tweaks",
         "n30n",
+		"Dread",
+		"Dreadnaught",
 		"Dreadnought"
     ],
     "sort": "ui tweaks",
